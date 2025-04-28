@@ -1,6 +1,3 @@
-# Housing Price Prediction
-
-
 #  Housing Price Prediction
 
 Predicting house prices using advanced regression techniques on the Kaggle housing dataset.
